@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "化孵化",
+  "base_artist": "sasakure.UK feat. 可不",
+  "createdAt": "2026-01-11T08:16:23.018917Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "化孵化",
+      "artist": "sasakure.UK, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_化孵化_sasakure.UK,_可不.txt"
+    }
+  ]
+}
